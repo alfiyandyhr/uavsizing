@@ -19,3 +19,5 @@ After all component weights are defined, a simple bisection method is utilized f
 Moreover, optimization for each configuration is also carried out using gradient-based methods implemented in OpenMDAO.
 The above methods are implemented in Python as well as an Excel file for easy demonstration.
 Finally, all the theories and equations are summarized in the PPT file.
+
+Acknowledgment: this work is greatly inspired by https://github.com/kanekosh/eVTOL_sizing
